@@ -1,0 +1,10 @@
+hello, antima
+ i am from up 
+ basic concepts of file handling in python.
+Appending a new line to the file.
+Appending a new line to the file.
+Appending a new line to the file.
+Appending a new line to the file.
+Appending a new line to the file.
+Appending a new line to the file.
+Appending a new line to the file.
